@@ -1,0 +1,8 @@
+Server,Step,ExecutionStart,ExecutionEnd,Success
+sjSandbox1,applicationPreChecks,,,
+sjSandboxDB,databasePreChecks,,,
+sjSandboxDB,databaseRefresh,,,
+sjSandbox1,applicationFileSystemCopy,,,
+sjSandbox1,adgfcClone,,,
+sjSandboxDB,databasePostChecks,,,
+sjSandbox1,applicationPostChecks,,,
